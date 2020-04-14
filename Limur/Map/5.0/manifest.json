@@ -1,6 +1,6 @@
 {
   "aliases": [
-    "limur-map"
+    "limur-map-special"
   ],
   "bundles": {
     "Limur\\Map\\LimurMapBundle": [
