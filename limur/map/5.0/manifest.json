@@ -1,5 +1,10 @@
 {
+  "aliases": [
+    "limur-map"
+  ],
   "bundles": {
-    "Limur\\Map\\LimurMapBundle": ["all"]
+    "Limur\\Map\\LimurMapBundle": [
+      "all"
+    ]
   }
 }
